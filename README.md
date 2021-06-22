@@ -11,7 +11,7 @@
  <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/git.svg  height='40' weight='40'/>
  <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/npm.svg  height='40' weight='40'/>
  <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/python.svg  height='40' weight='40'/>
- <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/adobe.svg  height='40' weight='40'/>
+
 
 <!-- <h2 align='center'>Connect with me  📫 </h2>
 <p align = 'center'> 
