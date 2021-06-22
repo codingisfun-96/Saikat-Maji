@@ -1,5 +1,5 @@
 # Saikat-Maji
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sabyasachi-biswas)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=saikat-maji)](https://github.com/anuraghazra/github-readme-stats)
 
 
