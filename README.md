@@ -6,7 +6,7 @@
 <p align = 'center'> 
  <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/html5.svg height='40' weight='40'/>
  <img src=https://github.com/simple-icons/simple-icons/blob/develop/icons/css3.svg height='40'  weight='40'/> 
- <img src=https://github.com/twbs/icons/blob/main/icons/bootstrap.svg height='40' weight='40'/>
+<!--  <img src=https://github.com/twbs/icons/blob/main/icons/bootstrap.svg height='40' weight='40'/> -->
  <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/javascript.svg height='40' weight='40'/>
  <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/git.svg  height='40' weight='40'/>
  <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/npm.svg  height='40' weight='40'/>
