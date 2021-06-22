@@ -2,7 +2,7 @@
 
 <p align='center'>Tech enthusiast 💻 </p>
 
-<!-- <h2 align='center'>Tech Stack I work on </h2>
+<h2 align='center'>Tech Stack I work on </h2>
 <p align = 'center'> 
  <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/html5.svg height='40' weight='40'/>
  <img src=https://github.com/simple-icons/simple-icons/blob/develop/icons/css3.svg height='40'  weight='40'/> 
@@ -11,7 +11,7 @@
  <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/git.svg  height='40' weight='40'/>
  <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/npm.svg  height='40' weight='40'/>
  <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/yarn.svg  height='40' weight='40'/>
- <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/react.svg  height='40' weight='40'/> -->
+ <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/react.svg  height='40' weight='40'/>
 
 <!-- <h2 align='center'>Connect with me  📫 </h2>
 <p align = 'center'> 
