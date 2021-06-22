@@ -20,7 +20,7 @@
  <a href = https://twitter.com/@AniruddhMuley target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg height='30' weight='30'/></a>
  <a href = https://stackoverflow.com/users/13961427/aniruddh-muley target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/stackoverflow.svg  height='30' weight='30'/></a> -->
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codingisfun-96&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codingisfun-96&theme=tokyonight&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codingisfun-96&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
