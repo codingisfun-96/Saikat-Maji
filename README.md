@@ -1,6 +1,6 @@
 <h1 align='center'>Hello there devs 👋, Saikat Maji here!</h1>
 
-<p align='center'>Tech enthusiast 💻. </p>
+<p align='center'>Tech enthusiast 💻 </p>
 
 <!-- <h2 align='center'>Tech Stack I work on </h2>
 <p align = 'center'> 
