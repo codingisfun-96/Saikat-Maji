@@ -9,7 +9,7 @@
 <!--  <a href = https://twitter.com/ target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg height='30' weight='30'/></a>
  <a href = https://stackoverflow.com/ target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/stackoverflow.svg  height='30' weight='30'/></a> -->
  
-<h2 align='center'>Tech Stack I am familiar with :</h2>
+<h2 align='center'>Languages and Tools I am familiar with :</h2>
 <p align = 'center'> 
  <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/html5.svg height='40' weight='40'/>
  <img src=https://github.com/simple-icons/simple-icons/blob/develop/icons/css3.svg height='40'  weight='40'/> 
