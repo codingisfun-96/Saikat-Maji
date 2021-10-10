@@ -1,8 +1,16 @@
 <h1 align='left'>Hello there devs 👋, Saikat Maji here!</h1>
 
-<p align='left'>Tech enthusiast.  💻 </p>
+### About me 💁‍♂️
+- Tech enthusiast.  💻
+<!-- - 🏫 Pursuing **B.Tech** in **Electronics and Communication Engineering (Major)** and **Computer Science (Minor)** from **[BIT Mesra]**.
+- 🧠 I'm a **quick learner**, a **team player**, a **good listener**, and love **helping others**.
+- 🚀 Fields that interest me most include **Data Science, Machine Learning, Deep Learning, NLP, and Robotics**.
+- 📖 Building a community for **Data Science & ML/AI Enthusiasts** while learning **Deep Learning** and **Bengali language**.
+- 🏓 Outside of **Github**, catch me for a quick best of 5 in **Table Tennis**.
+- 🤓 My hobbies are **Volunteering & Community development, Learning New Languages, Acting, Travelling, Sports.** -->
+<!-- <p align='left'> </p> -->
 
-<h2 align='left'>Connect with me  📫 </h2>
+<h2 align='left'>Connect with me 📫: </h2>
 <p align = 'left'> 
 <a href = https://github.com/codingisfun-96 target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg height='30' weight='30'/></a>
 <a href = https://www.linkedin.com/in/saikat-maji/ target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='30'  weight='30'/></a> 
