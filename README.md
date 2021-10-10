@@ -27,6 +27,7 @@
 
 
 <h3>🏆 Github Profile Trophy</h3>
-[![trophy] (https://github-profile-trophy.vercel.app/?username=codingisfun-96&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
+<img width=800 src="https://github-profile-trophy.vercel.app/?username=codingisfun-96&theme=nord"/>
+<!-- [![trophy] (https://github-profile-trophy.vercel.app/?username=codingisfun-96&theme=nord)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 
