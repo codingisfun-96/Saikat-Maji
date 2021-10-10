@@ -1,16 +1,16 @@
-<h1 align='center'>Hello there devs 👋, Saikat Maji here!</h1>
+<h1 align='left'>Hello there devs 👋, Saikat Maji here!</h1>
 
-<p align='center'>Tech enthusiast.  💻 </p>
+<p align='left'>Tech enthusiast.  💻 </p>
 
-<h2 align='center'>Connect with me  📫 </h2>
-<p align = 'center'> 
+<h2 align='left'>Connect with me  📫 </h2>
+<p align = 'left'> 
 <a href = https://github.com/codingisfun-96 target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg height='30' weight='30'/></a>
 <a href = https://www.linkedin.com/in/saikat-maji/ target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='30'  weight='30'/></a> 
 <!--  <a href = https://twitter.com/ target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg height='30' weight='30'/></a>
  <a href = https://stackoverflow.com/ target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/stackoverflow.svg  height='30' weight='30'/></a> -->
  
-<h2 align='center'>Languages and Tools I am familiar with :</h2>
-<p align = 'center'> 
+<h2 align='left'>Languages and Tools I am familiar with :</h2>
+<p align = 'left'> 
  <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/html5.svg height='40' weight='40'/>
  <img src=https://github.com/simple-icons/simple-icons/blob/develop/icons/css3.svg height='40'  weight='40'/> 
 <!--  <img src=https://github.com/twbs/icons/blob/main/icons/bootstrap.svg height='40' weight='40'/> -->
