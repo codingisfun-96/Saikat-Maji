@@ -4,7 +4,7 @@
 - Tech enthusiast.  💻
 - Flexible Learner. 🤗
 
-<!-- <p align='left'> </p> -->
+<p align='left'> To see the page [CLICK HERE](https://codingisfun-96.github.io/) </p>
 
 <h2 align='left'>Connect with me 📫: </h2>
 <p align = 'left'> 
