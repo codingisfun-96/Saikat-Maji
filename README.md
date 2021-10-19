@@ -4,7 +4,7 @@
 - Tech enthusiast.  💻
 - Flexible Learner. 🤗
 
-<p align='left'> To see the page [CLICK HERE](https://codingisfun-96.github.io/) </p>
+<p align='left'> To see my Github.io page <a href=(https://codingisfun-96.github.io/)>Click here!</a> </p>
 
 <h2 align='left'>Connect with me 📫: </h2>
 <p align = 'left'> 
