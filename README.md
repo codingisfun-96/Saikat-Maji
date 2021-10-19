@@ -2,6 +2,7 @@
 
 ### About me 💁
 - Tech enthusiast.  💻
+- Flexible Learner. 🤗
 
 <!-- <p align='left'> </p> -->
 
